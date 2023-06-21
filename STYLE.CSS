@@ -1,0 +1,26 @@
+:root {
+        --cor-de-fundo: #494949;
+        --cor-do-cabeçalho: #b3b3b3 ;
+      }
+*{
+
+        margin: 0px;
+        padding:0%;
+
+}
+
+body {
+        background-color:var(--cor-de-fundo);
+}
+
+header {
+
+   background-color: var(--cor-do-cabeçalho) ;
+
+}
+
+.logo {
+
+        width: 15% ;
+        margin: 10px;
+}
